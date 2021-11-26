@@ -1,5 +1,8 @@
 {
-  "Employees" : [
+  "companyName" : "Dunder Mifflin",
+  "location" : "Scranton, PA",
+  "founded" : 1949,
+  "employees" : [
     {
       "FName" : "Jim",
       "LName" : "Halpert",
