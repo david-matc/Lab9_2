@@ -4,21 +4,21 @@
   "Occupation" : "Salesperson",
   "Age" : "34",
   "EmployeeStatus" : true
-},
+}
 {
   "FName" : "Micheal",
   "LName" : "Scott",
   "Occupation" : "Manager",
   "Age" : "42",
   "EmployeeStatus" : true
-},
+}
 {
   "FName" : "Oscar",
   "LName" : "Martinez",
   "Occupation" : "Accountant",
   "Age" : "46",
   "EmployeeStatus" : true
-},
+}
 {
   "FName" : "Kelly",
   "LName" : "Kapoor",
